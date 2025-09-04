@@ -25,5 +25,4 @@
 #### Product Performance: Insights into which products are performing well or underperforming can be gained from the analysis, which helps in inventory management and marketing strategies.
 
 ## 6.Screenshot
-https://github.com/Sejal-John-Fernandes/Ecommerce-Sales/blob/main/Snapshot%20of%20the%20Dashboard.png
-
+![image alt](https://github.com/Sejal-John-Fernandes/Power-BI-Dashboard-Project/blob/eb3422835decc7b924471d8062e9eeea87d05a2e/Snapshot%20of%20the%20image.png)
