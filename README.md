@@ -1,4 +1,4 @@
-# Ecommerce Sales
+# Ecommerce Sales Project
 ## 1.Project Title
 #### Analysed Ecommerce Sales data created on interactive dashboard using Power BI. 
 
@@ -17,3 +17,13 @@
 #### Dynamic Layout: The report features a dynamic layout to ensure a user-friendly experience.
 #### Security Integration: The project is configured with security bindings to manage user access and data permissions.
 #### Gradient Background: A custom gradient background image is used to enhance the visual appeal of the report.
+
+## 5.Business Impact and Insights
+#### Improved Decision-Making: By providing a clear and comprehensive view of sales data, the dashboard helps managers and executives make data-driven decisions regarding sales strategies, product offerings, and resource allocation.
+#### Enhanced Performance Monitoring: The project enables continuous monitoring of sales performance, allowing businesses to track progress toward goals and identify areas that require attention.
+#### Sales Performance Trends: The dashboard visualizes sales trends over time, helping to identify seasonal patterns, growth periods, or declines.
+#### Product Performance: Insights into which products are performing well or underperforming can be gained from the analysis, which helps in inventory management and marketing strategies.
+
+## 6.Screenshot
+https://github.com/Sejal-John-Fernandes/Ecommerce-Sales/blob/main/Snapshot%20of%20the%20Dashboard.png
+
